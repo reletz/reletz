@@ -9,8 +9,11 @@
 
 Nice to meet you all. I'm Reletz, 2nd year CS student. I love building cool stuff, exploring systems programming, and occasionally being a game dev! 🎮  
 Always up for learning new things and collaborating on exciting projects! 🚀
+
+<div>
 [![Reletz's GitHub stats](https://github-readme-stats.vercel.app/api?username=reletz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reletz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ----------
 
