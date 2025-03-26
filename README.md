@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div style="top: 50%;left: 50%;">
 <img src = "https://c2.img.netmarble.kr/web/_event/2012/moma/1127/img/evt5/bt_start.gif"></img>
 [![Reletz's GitHub stats](https://github-readme-stats.vercel.app/api?username=reletz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reletz)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
