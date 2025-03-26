@@ -4,20 +4,32 @@
 
 <img src="https://c2.img.netmarble.kr/web/_event/2012/moma/1127/img/evt5/bt_start.gif" alt="Start Button" />
 
-<br/>
 </div>
 
-Nice to meet you all. I'm Reletz, 2nd year CS student. I love building cool stuff, exploring systems programming, and occasionally being a game dev! 🎮  
+---
+
+Nice to meet you all. I'm Reletz, a 2nd-year CS student 👨‍💻  
+I love building cool stuff, exploring systems programming, and occasionally being a game dev! 🎮  
 Always up for learning new things and collaborating on exciting projects! 🚀
 
-<div>
-  
-[![Reletz's GitHub stats](https://github-readme-stats.vercel.app/api?username=reletz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reletz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=reletz&show_icons=true&theme=radical" alt="Reletz's GitHub stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reletz&layout=compact&theme=radical" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-----------
+---
 
 ### 🛠️ Tech Stack
 
