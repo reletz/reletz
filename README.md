@@ -8,7 +8,7 @@
 
 ---
 
-Nice to meet you all. I'm Reletz, a 3td-year CS student 👨‍💻  
+Nice to meet you all. I'm Reletz, a 3rd-year CS student 👨‍💻  
 I love building cool stuff and exploring systems programming!
 Always up for learning new things and collaborating on exciting projects! 🚀
 
