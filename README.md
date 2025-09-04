@@ -8,8 +8,8 @@
 
 ---
 
-Nice to meet you all. I'm Reletz, a 2nd-year CS student 👨‍💻  
-I love building cool stuff, exploring systems programming, and occasionally being a game dev! 🎮  
+Nice to meet you all. I'm Reletz, a 3td-year CS student 👨‍💻  
+I love building cool stuff and exploring systems programming!
 Always up for learning new things and collaborating on exciting projects! 🚀
 
 ---
